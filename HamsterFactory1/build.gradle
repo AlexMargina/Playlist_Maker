@@ -1,0 +1,11 @@
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+version = '1.0'
+
+repositories {
+}
+
+dependencies {
+implementation 'org.jetbrains:annotations:15.0'
+}
