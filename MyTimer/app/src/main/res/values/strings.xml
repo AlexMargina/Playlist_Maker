@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyTimer</string>
+    <string name="time_input">Введите время в секундах</string>
+</resources>
